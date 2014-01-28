@@ -1,0 +1,2 @@
+hachiko-manifest
+================
