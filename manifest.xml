@@ -12,11 +12,11 @@
     <project
         name        = "poky"
         remote      = "yoctoproject"
-        revision    = "dora"
+        revision    = "f1276b066223e7f501f7f711680215ff8edee252"
     />
     <project
         name        = "meta-hachiko"
         remote      = "architech-boards"
-        revision    = "dora"
+        revision    = "b36c9c62a1c8d39d8fdbcd57317ba4a62dd414b7"
     />
 </manifest>
