@@ -17,6 +17,6 @@
     <project
         name        = "meta-hachiko"
         remote      = "architech-boards"
-        revision    = "b36c9c62a1c8d39d8fdbcd57317ba4a62dd414b7"
+        revision    = "dora"
     />
 </manifest>
